@@ -2,7 +2,7 @@
 
 ## Overview 🌟
 
-The goal of this project was to build an ML model that aims to predict the average total yards per season for every NFL team based on their points scored. My hypothesis is that there is a  correlation between the points scored by a team and their total yards, which can be used to predict future performance.
+The goal of this project was to build an ML model that aims to predict the average total yards per season for every NFL team based on their points scored. My hypothesis is that there is a  correlation between the points scored by a team and their total yards, which can be used to predict future performance. Also referenced DataQuest
 
 ## Data Cleaning 🧹
 
